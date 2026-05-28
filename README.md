@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Привет, я Никита (shish443) 👋</h1>
 
-<!--
-**shish443/shish443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Backend-разработчик (Go) • Пишу чистый и надёжный код</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://t.me/Shishkin_Nikitos">Telegram</a> • 
+  <a href="http://shishn.bid">мой сайт</a> • 
+  <a href="mailto:shishkinn0704@gmail.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Обо мне
+- Сейчас активно изучаю и практикую **Go**
+- Фокус: backend, Telegram-боты, финансы/учёт, CLI-инструменты
+- Языки: **Русский** (родной) + **English (Upper-Intermediate)**
+- Ищу первую коммерческую позицию Junior/Middle Go-разработчика
+
+### Текущие проекты
+
+**🐹 Hamster Expenses Bot**  
+Telegram-бот для учёта личных финансов. Чистая архитектура, база данных, удобный UX.
+
+**📚 Learning Go Marathon**  
+Публичный марафон изучения Go с нуля до оффера. Дисциплина и ежедневная практика.
+
+### Стек
+**Go** • PostgreSQL • SQLite • Telegram Bot API • Docker • Git
+
+---
+
+*Открыт к предложениям и коллаборациям.*
